@@ -1,6 +1,6 @@
 # 学生管理系统 StudentManagement
 
-## 简介N
+## 简介
 * 开发工具：Oracle jdk8,MySQL数据库 Mac计算机，Windows计算机，Netbeans8，Eclipse。
 * 项目其中的很多类可复用，基于此可很快完成一个新的管理系统。
 * 前半段在netbeans上开发的，后面完善是在eclipse，eclipse可完美运行，netbeans也可以。
